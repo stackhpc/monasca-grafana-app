@@ -1,0 +1,42 @@
+{
+    "metrics": {
+        "elements": [
+            {
+                "id": 0,
+                "name": "name1",
+                "dimensions": {
+                    "key1": "value1"
+                }
+            },
+            {
+                "id": 1,
+                "name": "name2",
+                "dimensions": {
+                    "key1": "value1"
+                }
+            }
+        ]
+    },
+    "dimensions": {
+        "names": {
+            "elements": [
+                {
+                  "dimension_name": "name2"
+                },
+                {
+                  "dimension_name": "name3"
+                }
+            ]
+        },
+        "values": {
+            "elements": [
+                {
+                  "dimension_value": "value2"
+                },
+                {
+                  "dimension_value": "value3"
+                }
+            ]
+        }
+    }
+}
